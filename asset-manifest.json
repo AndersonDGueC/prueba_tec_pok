@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.js": "/prueba_tec_pok/static/js/main.dd998dc9.chunk.js",
+    "main.js.map": "/prueba_tec_pok/static/js/main.dd998dc9.chunk.js.map",
+    "runtime-main.js": "/prueba_tec_pok/static/js/runtime-main.8dabe542.js",
+    "runtime-main.js.map": "/prueba_tec_pok/static/js/runtime-main.8dabe542.js.map",
+    "static/css/2.c3343ac3.chunk.css": "/prueba_tec_pok/static/css/2.c3343ac3.chunk.css",
+    "static/js/2.ef9743ca.chunk.js": "/prueba_tec_pok/static/js/2.ef9743ca.chunk.js",
+    "static/js/2.ef9743ca.chunk.js.map": "/prueba_tec_pok/static/js/2.ef9743ca.chunk.js.map",
+    "index.html": "/prueba_tec_pok/index.html",
+    "precache-manifest.7468c514c1726098a4e32f6c0ae1efdf.js": "/prueba_tec_pok/precache-manifest.7468c514c1726098a4e32f6c0ae1efdf.js",
+    "service-worker.js": "/prueba_tec_pok/service-worker.js",
+    "static/css/2.c3343ac3.chunk.css.map": "/prueba_tec_pok/static/css/2.c3343ac3.chunk.css.map",
+    "static/js/2.ef9743ca.chunk.js.LICENSE.txt": "/prueba_tec_pok/static/js/2.ef9743ca.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8dabe542.js",
+    "static/css/2.c3343ac3.chunk.css",
+    "static/js/2.ef9743ca.chunk.js",
+    "static/js/main.dd998dc9.chunk.js"
+  ]
+}
